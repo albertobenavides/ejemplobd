@@ -6,4 +6,4 @@
 
 ###### Alberto Benavides
 
-Curso chido.
+Curso sobre bases de datos relacionales impartido por [Alberto Benavides](https://albertobenavides.notion.site/Curriculum-vitae-8488a0c03dd7445caa57dafff6ea800e).
