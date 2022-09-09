@@ -10,4 +10,4 @@ Curso sobre bases de datos relacionales impartido por [Alberto Benavides](https:
 
 ## Lista de tareas
 
-- [Tarea 1](tarea1\main.md)
+- [Tarea 1](tarea1/main.md)
