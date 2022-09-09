@@ -5,3 +5,8 @@
 Escribir **negritas**, _cursivas_, `código`...
 
 Esto es lo que voy a agregar en la tarea.
+
+```mermaid
+flowchart LR
+   a --> b & c--> d
+```
